@@ -24,6 +24,7 @@ ul
 	text-align: center;
 	font-family: "Scala", "Arial", "Lucida Grande" serif;
 	list-style-type: none;
+	
 }
 body
 {
@@ -42,7 +43,7 @@ img
 nav
 {
 	line-height: 200%;
-	diplay: block;
+	display: block;
 }
 nav li
 {
