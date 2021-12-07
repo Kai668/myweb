@@ -70,3 +70,31 @@ nav a:active
 	color: #648B6F;
 	text-decoration: underline;
 }
+table
+{
+	border: solid 1px #BBA886;
+	border-collapse: collapse;
+}
+tr, td
+{
+	border: solid 2px #648B6F;
+	padding: 3px;
+	width: 50px;
+	text-align: center;
+}
+th
+{
+	color: #BBA886;
+	border: solid 2px #648B6F;
+	padding: 3px;
+}
+tr:hover
+{
+	color: #6D5E7E;
+	background-color: white;
+}
+th:hover
+{
+	color: #BBA886;
+	background-color: white;
+}
